@@ -45,3 +45,12 @@ main img {
     display: flex;
     align-items: center;
 }
+
+.calculate {
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px 10px 20px;
+}
